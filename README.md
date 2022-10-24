@@ -1,0 +1,2 @@
+# artifical_intelligence
+AI_player_simple_game
